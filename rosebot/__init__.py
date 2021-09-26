@@ -24,7 +24,7 @@ dotenv.load_dotenv()
 
 
 # APIS
-API_ID = os.getenv("API_ID")
+API_ID = os.getenv("API1930185357:AAGiIudSN9Wg6dd0MH2omPmQsjRk87g4ihk_ID")
 API_HASH = os.getenv("API_HASH")
 CC_API = os.getenv("CC_API")
 THECATAPI = os.getenv("THECATAPI")
@@ -38,4 +38,4 @@ OMDBAPIKEY = os.getenv("OMDBAPIKEY")
 FILEIDS_DIR = os.getenv("FILEIDS_DIR")
 
 
-BOT = Client(session_name="RoseBot", api_id=API_ID, api_hash=API_HASH)
+BOT = Client(session_name="Garfieldmaneger", api1930185357:AAGiIudSN9Wg6dd0MH2omPmQsjRk87g4ihk_id=API_1930185357:AAGiIudSN9Wg6dd0MH2omPmQsjRk87g4ihkID, api_hash=API_HASH)
